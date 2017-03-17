@@ -1,0 +1,8 @@
+[
+{"name": "Company A", "robbedBank": false},
+{"name": "Company B", "employees": 23},
+{"name": "Company C", "employees": 1, "robbedBank": true},
+{"name": "Company D", "creditRating": 2.2, "complex": {}, "array": []},
+{"name": "Company E", "same": "same"},
+{"name": "Company F", "same": "same"}
+]
